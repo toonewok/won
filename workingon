@@ -1,0 +1,31 @@
+Currently working on.....
+
+Daily Balancing
+	1916-daily_balancing_jyss.sql
+	1966-zena process for daily balancing
+	1979-Script to purge snapshot tables
+	1917-Zena process for inventory snapshot - done
+	1918-Zena process for daily uploads - done
+
+
+Extracts/reveal
+	1843-jdc_supply_extract.sql
+	1844-dws_store_extrat.sql
+	1845-dws_web_extract.sql
+	1846-dws_ddo_extract.sql
+	1872-store_web_extract.sql
+	1882-cat_reveal_extracts.sh
+
+Cobol
+	pkmsi010 - done just awaiting prod test
+	invcodeblock - get with Jim to determine if this is even needed
+	suply935 disable - as if oct31 this should be disabled
+
+gco_merch conversions
+	1966-generate_csv(mirror of rams_gens_csv)
+
+Forms
+	1908-Extended User Timeout
+
+Import Tracking(kill me)
+	1969-Payment Process flow
