@@ -9,11 +9,11 @@ Daily Balancing
 
 
 Extracts/reveal
-	1843-jdc_supply_extract.sql
-	1844-dws_store_extrat.sql
-	1845-dws_web_extract.sql
-	1846-dws_ddo_extract.sql
-	1872-store_web_extract.sql
+	1843-jdc_supply_extract.sql - done
+	1844-dws_store_extrat.sql - done
+	1845-dws_web_extract.sql - done
+	1846-dws_ddo_extract.sql - done
+	1872-store_web_extract.sql - done
 	1882-cat_reveal_extracts.sh
 
 Cobol
